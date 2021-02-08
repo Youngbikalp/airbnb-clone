@@ -1,6 +1,6 @@
-## airbnb-clone
+## airbnb-clone - 2020
 - Airbnb clone using React JS
-- Skills used: React.JS, React Hooks, React Router, Material UI, Flexbox, CSS
+- Skills used: React.JS, React Hooks, React Router, Material UI, Flexbox, HTML/CSS
 - Hosting using firebase
 
 ## Hosting link
